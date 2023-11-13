@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "EA1anfuGxAUhESR+LhDk6MV6HE+t+JR4aMVhW1VPU+68GMoaj0UvutpHV+OBo9mbV4ThNV3lEeowiL4zOvaMMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SLopez\\Downloads\\Algorithms-Course-Source\\Algorithms-CSharp-Course\\Algorithms-CSharp-Course\\Algorithms-CSharp-Course.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SLopez\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\SLopez\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\SLopez\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\SLopez\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\SLopez\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\SLopez\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

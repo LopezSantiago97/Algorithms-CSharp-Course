@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FYlSJf3knYoOX67e3ki5Mej54O2Ol8C7FvIzDAm1ueJ6EjR2EctBNzlmU0Fdq78gUD2gwi1sqTD0yANH5Lw/Rg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SLopez\\Downloads\\Algorithms-Course-Source\\Algorithms-CSharp-Course\\Algorithms-DataStruct-Lib\\Algorithms-DataStruct-Lib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SLopez\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\SLopez\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
